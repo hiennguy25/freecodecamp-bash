@@ -89,3 +89,12 @@ history -a
 echo '#!/bin/bash' > questionnaire.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+echo $QUESTION1
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $question1
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $QUESTION1
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
