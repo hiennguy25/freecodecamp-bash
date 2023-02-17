@@ -3,3 +3,12 @@ history -a
 echo hello bash
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+touch questionaire.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+rm questionaire.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+touch questionnaire.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
