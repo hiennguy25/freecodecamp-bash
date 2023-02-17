@@ -51,3 +51,20 @@ history -a
 ./questionnaire.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+ls --color=auto -l
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto -l ~/projects
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto -l ~/project
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+questionnaire.sh ls -l
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo ls -l > questionnaire.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
