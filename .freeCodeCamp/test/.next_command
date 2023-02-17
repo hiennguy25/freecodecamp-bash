@@ -30,3 +30,9 @@ history -a
 echo '#!/bin/bash' > questionnaire.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+more questionnaire.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./questionnaire.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
